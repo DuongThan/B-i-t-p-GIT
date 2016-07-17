@@ -1,4 +1,4 @@
-# User BaiTap GIT
+# User GIT
 Hướng dẫn sử dụng git	
 
 Khởi tạo kho chứa : git init	
